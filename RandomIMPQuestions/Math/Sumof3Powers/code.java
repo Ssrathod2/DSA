@@ -1,4 +1,3 @@
-import java.util.*;
 
 class Solution {
     public boolean checkPowersOfThree(int n) {
